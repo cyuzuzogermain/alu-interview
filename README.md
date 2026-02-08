@@ -1,2 +1,2 @@
 # alu-interview
-this is a repo with solutions to sme interview problems
+A simple data structure interview question
